@@ -26,7 +26,7 @@
 ### Languages and Tools:
 
 ![AWS](https://img.shields.io/badge/AWS-darkorange?style=flat-square&logo=amazonwebservices&logoColor=black)
-![Jenkins](https://img.shields.io/badge/Jenkins-F7F7F7?style=flat-square&logo=Jenkins&logoColor=orange)
+![Jenkins](https://img.shields.io/badge/Jenkins-white?style=flat-square&logo=Jenkins&logoColor=darkred)
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git&logoColor=black)
 ![Github](https://img.shields.io/badge/github-f7f7f7?style=flastic&logo=github&logoColor=000000)
@@ -38,7 +38,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E05924?style=flat-square&logo=ubuntu&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-yellow?style=flat-square&logo=Linux&logoColor=blue)
+![Linux](https://img.shields.io/badge/Linux-FFFBC8?style=flat-square&logo=Linux&logoColor=black)
 ![VisualStudio](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
 ![PagerDuty](https://img.shields.io/badge/PagerDuty-grey?style=flat-square&logo=pagerduty&logoColor=green)
 ![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=flastic&logo=Postman&logoColor=FF6C37)

@@ -50,6 +50,53 @@
 
 ---
 
+### 🏆 Certifications:
+<div id="certificates" align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.credly.com/badges/c7d6313a-7a94-4ec9-801a-fadb8419187d/public_url" target="_blank">
+          <img src="/aws-certified-security-specialty.png" alt="AWS CERTIFIED SECURITY SPECIALTY" width="150">
+        </a>
+        <p>AWS CERTIFIED SECURITY SPECIALTY</p>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/badges/4f971a76-8429-48a2-94c4-9f4d9248b1df/public_url" target="_blank">
+          <img src="/cka-certified-kubernetes-administrator.png" alt="CERTIFIED KUBERNETES ADMINISTRATOR" width="150">
+        </a>
+        <p>CERTIFIED KUBERNETES ADMINISTRATOR</p>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/badges/12d09d0a-99f3-44b8-94c9-d29ce34f60b1/public_url" target="_blank">
+          <img src="/aws-partner-technical-accredited.png" alt="AWS PARTNER TECHNICAL ACCREDITED" width="150">
+        </a>
+        <p>AWS PARTNER TECHNICAL ACCREDITED</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.credly.com/badges/a2f78568-05e6-4fdc-b3d5-b916b734e4ef/public_url" target="_blank">
+          <img src="/pagerduty-foundational-practitioner-certification.png" alt="PAGERDUTY FOUNDATIONAL PRACTITIONER" width="150">
+        </a>
+        <p>PAGERDUTY FOUNDATIONAL PRACTITIONER</p>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/badges/3c173eae-8832-4447-b53a-1a4442f7fae0/public_url" target="_blank">
+          <img src="/incident-management-certification.png" alt="INCIDENT MANAGEMENT CERTIFICATION" width="150">
+        </a>
+        <p>INCIDENT MANAGEMENT CERTIFICATION</p>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/badges/2cecc9c8-32eb-4995-b620-5eae3ae0a1c7/public_url" target="_blank">
+          <img src="/pagerduty-event-intelligence-certification.png" alt="PAGERDUTY EVENT INTELLIGENCE CERTIFICATION" width="150">
+        </a>
+        <p>PAGERDUTY EVENT INTELLIGENCE CERTIFICATION</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 <!---
 Ahmed-U-Github/Ahmed-U-Github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

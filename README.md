@@ -25,23 +25,23 @@
 
 ### Languages and Tools:
 
-![AWS](https://img.shields.io/badge/AWS-darkorange?style=flat-square&logo=amazonwebservices&logoColor=black)
-![Jenkins](https://img.shields.io/badge/Jenkins-white?style=flat-square&logo=Jenkins&logoColor=darkred)
-![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-darkorange?style=for-the-badge&logo=amazonwebservices&logoColor=black)
+![Jenkins](https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=Jenkins&logoColor=darkred)
+![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-F7F7F7?style=for-the-badge&logo=github&logoColor=000000)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-007ACC?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-black?style=flat-square&logo=terraform&logoColor=blue)
-![Prometheus](https://img.shields.io/badge/Prometheus-E34F26?style=flat-square&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=Grafana&logoColor=Black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E05924?style=flat-square&logo=ubuntu&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FFFBC8?style=flat-square&logo=Linux&logoColor=black)
-![VisualStudio](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
-![PagerDuty](https://img.shields.io/badge/PagerDuty-grey?style=flat-square&logo=pagerduty&logoColor=green)
-![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=flastic&logo=Postman&logoColor=FF6C37)
+![Terraform](https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform&logoColor=blue)
+![Prometheus](https://img.shields.io/badge/Prometheus-E34F26?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-black?style=for-the-badge&logo=Grafana&logoColor=Black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=for-the-badge&logo=mongodb&logoColor=49A248)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E05924?style=for-the-badge&logo=ubuntu&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FFFBC8?style=for-the-badge&logo=Linux&logoColor=black)
+![VisualStudio](https://img.shields.io/badge/VisualStudio-2C2B30?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-grey?style=for-the-badge&logo=pagerduty&logoColor=green)
+![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=for-the-badge&logo=Postman&logoColor=FF6C37)
 
 ---
 

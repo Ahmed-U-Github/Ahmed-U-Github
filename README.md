@@ -14,7 +14,7 @@
 
 ---
 
-### Connect With Me:
+### 🔰 Let's Connect:
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmedu2206)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-u22/)
@@ -23,7 +23,7 @@
 
 ---
 
-### Languages and Tools:
+### ♨ Languages and Tools:
 
 ![AWS](https://img.shields.io/badge/AWS-darkorange?style=for-the-badge&logo=amazonwebservices&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=Jenkins&logoColor=darkred)

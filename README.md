@@ -42,6 +42,9 @@
 ![VisualStudio](https://img.shields.io/badge/VisualStudio-2C2B30?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC)
 ![PagerDuty](https://img.shields.io/badge/PagerDuty-grey?style=for-the-badge&logo=pagerduty&logoColor=green)
 ![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=for-the-badge&logo=Postman&logoColor=FF6C37)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![SonatQube](https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 ---
 

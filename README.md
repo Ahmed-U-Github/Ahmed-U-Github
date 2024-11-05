@@ -29,7 +29,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-white?style=flat-square&logo=Jenkins&logoColor=darkred)
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/github-f7f7f7?style=flastic&logo=github&logoColor=000000)
+![Github](https://img.shields.io/badge/github-F7F7F7?style=for-the-badge&logo=github&logoColor=000000)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-007ACC?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-black?style=flat-square&logo=terraform&logoColor=blue)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E34F26?style=flat-square&logo=Prometheus&logoColor=white)

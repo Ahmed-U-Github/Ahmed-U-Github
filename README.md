@@ -76,13 +76,13 @@
     <tr>
       <td align="center">
         <a href="https://www.credly.com/badges/a2f78568-05e6-4fdc-b3d5-b916b734e4ef/public_url" target="_blank">
-          <img src="/pagerduty-foundational-practitioner-certification.png" alt="PAGERDUTY FOUNDATIONAL PRACTITIONER" width="150">
+          <img src="/pagerduty-foundational-practitioner-certification.png" alt="PAGERDUTY FOUNDATIONAL PRACTITIONER" width="140">
         </a>
         <p>PAGERDUTY FOUNDATIONAL PRACTITIONER</p>
       </td>
       <td align="center">
         <a href="https://www.credly.com/badges/3c173eae-8832-4447-b53a-1a4442f7fae0/public_url" target="_blank">
-          <img src="/incident-management-certification.png" alt="INCIDENT MANAGEMENT CERTIFICATION" width="150">
+          <img src="/incident-management-certification.png" alt="INCIDENT MANAGEMENT CERTIFICATION" width="140">
         </a>
         <p>INCIDENT MANAGEMENT CERTIFICATION</p>
       </td>

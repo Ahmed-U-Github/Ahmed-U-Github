@@ -56,19 +56,19 @@
     <tr>
       <td align="center">
         <a href="https://www.credly.com/badges/c7d6313a-7a94-4ec9-801a-fadb8419187d/public_url" target="_blank">
-          <img src="/aws-certified-security-specialty.png" alt="AWS CERTIFIED SECURITY SPECIALTY" width="150">
+          <img src="/aws-certified-security-specialty.png" alt="AWS CERTIFIED SECURITY SPECIALTY" width="155">
         </a>
         <p>AWS CERTIFIED SECURITY SPECIALTY</p>
       </td>
       <td align="center">
         <a href="https://www.credly.com/badges/4f971a76-8429-48a2-94c4-9f4d9248b1df/public_url" target="_blank">
-          <img src="/cka-certified-kubernetes-administrator.png" alt="CERTIFIED KUBERNETES ADMINISTRATOR" width="150">
+          <img src="/cka-certified-kubernetes-administrator.png" alt="CERTIFIED KUBERNETES ADMINISTRATOR" width="160">
         </a>
         <p>CERTIFIED KUBERNETES ADMINISTRATOR</p>
       </td>
       <td align="center">
         <a href="https://www.credly.com/badges/12d09d0a-99f3-44b8-94c9-d29ce34f60b1/public_url" target="_blank">
-          <img src="/aws-partner-technical-accredited.png" alt="AWS PARTNER TECHNICAL ACCREDITED" width="150">
+          <img src="/aws-partner-technical-accredited.png" alt="AWS PARTNER TECHNICAL ACCREDITED" width="160">
         </a>
         <p>AWS PARTNER TECHNICAL ACCREDITED</p>
       </td>

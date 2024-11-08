@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://ahmed-u-github.github.io/ahmed-portfolio/" target="_blank">
-    <img src="/mrdevops.png?text=Ahmed-Portfolio" alt="Ahmed-Portfolio Banner" style="width:80%; max-width:1200px; height:auto; border:2px solid black;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tybXVzOWk2Z2hmeDRnOGpzam9ianZuaGJsMG5uc2lrOXdrYm5oYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SBz5WdRACsaqEEGRfl/giphy.gif" alt="Ahmed-Portfolio" width="400" />
   </a>
 </div>
 

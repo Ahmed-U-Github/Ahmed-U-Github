@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://ahmed-u-github.github.io/ahmed-portfolio/" target="_blank">
-    <img src="/devops.png?text=Ahmed-Portfolio" alt="Ahmed-Portfolio Banner" style="width:80%; max-width:1200px; height:auto; border:2px solid black;">
+    <img src="/mrdevops.png?text=Ahmed-Portfolio" alt="Ahmed-Portfolio Banner" style="width:80%; max-width:1200px; height:auto; border:2px solid black;">
   </a>
 </div>
 

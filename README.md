@@ -58,11 +58,11 @@
 
 ---
 
-🚀 My Projects  
-🌐 [Cloud Network Architecture Visualizer](https://cloudnetviz.com)  
-Transform your Cloud network infrastructure into beautiful, interactive diagrams. Upload your JSON configuration and visualize your network architecture in seconds.
+## 🚀 My Projects
 
-[![Cloud Network Architecture Visualizer](https://your-logo-url.com/logo.png)](https://cloudnetviz.com)
+[![Cloud Network Architecture Visualizer](cloudnetviz.svg)](https://your-website-url.com)
+
+Transform your Cloud network infrastructure into beautiful, interactive diagrams. Upload your JSON configuration and visualize your network architecture in seconds.
 
 ---
 
